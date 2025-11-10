@@ -2,3 +2,6 @@ python-docx
 emoji
 nltk
 num2words
+scikit-learn
+gensim
+numpy
